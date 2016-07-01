@@ -1,0 +1,15 @@
+{
+  "name": "pgomersbach-demo_mco_client",
+  "version": "0.1.0",
+  "author": "pgomersbach",
+  "summary": null,
+  "license": "Apache-2.0",
+  "source": "https://github.com/pgomersbach/demo_mco_client.git",
+  "project_page": "https://github.com/pgomersbach/demo_mco_client",
+  "issues_url": "https://github.com/pgomersbach/demo_mco_client/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
